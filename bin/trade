@@ -1,0 +1,29 @@
+#!/bin/bash
+# 加密货币交易机器人 - 快速使用
+
+case "$1" in
+  status)
+    echo "📊 检查交易状态..."
+    node ~/crypto-trader/src/smart-trader.js
+    ;;
+  buy)
+    echo "🎯 执行买入检查..."
+    node ~/crypto-trader/src/smart-trader.js buy
+    ;;
+  check)
+    echo "🔍 检查市场..."
+    node ~/crypto-trader/src/smart-trader.js check
+    ;;
+  *)
+    echo "🤖 OKX智能交易机器人"
+    echo ""
+    echo "使用方法:"
+    echo "  trade status    # 检查账户状态"
+    echo "  trade buy       # 执行买入检查"
+    echo "  trade check     # 检查市场行情"
+    echo ""
+    echo "示例:"
+    echo "  trade status    # 查看当前持仓"
+    echo "  trade buy       # 检查是否满足买入条件"
+    ;;
+esac
