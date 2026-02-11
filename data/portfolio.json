@@ -1,1 +1,10 @@
-{"totalValue": 11.08, "positions": []}
+{
+  "initialCapital": 11.00,
+  "currentCapital": 6.12,
+  "btcHoldings": 0.000075,
+  "btcAvgPrice": 66149.1,
+  "totalTrades": 1,
+  "realizedPnL": 0,
+  "unrealizedPnL": 0,
+  "lastUpdated": "2026-02-11T23:25:00+08:00"
+}

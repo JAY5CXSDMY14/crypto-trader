@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": 1,
+    "date": "2026-02-11",
+    "time": "23:25:00",
+    "symbol": "BTC-USDT",
+    "side": "BUY",
+    "price": 66149.1,
+    "size": 0.000075,
+    "value": 4.96,
+    "fee": 0.000000075,
+    "status": "filled",
+    "reason": "跌破支撑位66000，聪明钱策略买入",
+    "stopLoss": 59534.19,
+    "takeProfit": 85993.83
+  }
+]
