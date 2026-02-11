@@ -1,0 +1,25 @@
+{
+  "name": "crypto-trader",
+  "version": "1.0.0",
+  "description": "OKX加密货币AI交易机器人",
+  "main": "src/trader.js",
+  "scripts": {
+    "start": "node src/trader.js",
+    "balance": "node src/balance.js",
+    "buy": "node src/buy.js",
+    "sell": "node src/sell.js"
+  },
+  "keywords": [
+    "crypto",
+    "trading",
+    "okx",
+    "bot",
+    "bitcoin"
+  ],
+  "author": "LuXZ02",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
