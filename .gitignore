@@ -1,19 +1,15 @@
-# Node.js
-node_modules/
-npm-debug.log
+# API密钥 - 敏感信息
+config/
+data/
+*.json
 
 # 环境变量
 .env
-.credentials/
+.env.local
 
-# 系统文件
-.DS_Store
-Thumbs.db
+# 日志
+*.log
 
 # 临时文件
 *.tmp
 *.swp
-
-# 汇报记录
-REPORTS/*.md
-!REPORTS/README.md
