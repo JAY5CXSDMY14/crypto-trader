@@ -1,6 +1,6 @@
 ---
 slug: day-1-smart-money-strategy
-date: "2026-02-14"
+date: "2026-02-15"
 title: "Day 1: Smart Money Strategy"
 tags:
   - trading
@@ -36,10 +36,10 @@ tags:
 
 
 ### BTC-USDT
-- 当前价: $69879.8
+- 当前价: $68904.1
 
 ### ETH-USDT  
-- 当前价: $2088.65
+- 当前价: $2004.15
 
 ## 📝 今日观察
 
